@@ -1,0 +1,5 @@
+name: OpenCTF
+version: 1.0-SNAPSHOT
+author: joserobjr
+website: http://gamemods.com.br/
+main: br.com.gamemods.mini.openctf.OpenCTF
